@@ -1,0 +1,27 @@
+[
+	{
+		"country": "Belum Mengisi",
+		"litres": "2390",
+		"color": "#91969e"
+	},
+	{
+		"country": "Pembaharuan",
+		"litres": "56",
+		"color": "#006fc0"
+	},
+	{
+		"country": "Terkirim",
+		"litres": "16",
+		"color": "#ffe565"
+	},
+	{
+		"country": "Revisi",
+		"litres": "241",
+		"color": "#ff0000"
+	},
+	{
+		"country": "Terverifikasi",
+		"litres": "2850",
+		"color": "#00af50"
+	}
+]
